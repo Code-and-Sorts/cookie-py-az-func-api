@@ -1,5 +1,8 @@
 # Kitten-Claws API
 
+> [!IMPORTANT]  
+> This example Python Azure Function API was generated using the [Cookiecutter API](https://github.com/Code-and-Sorts/cookiecutter-api) template.
+
 ## Overview
 
 This project is a Python-based REST API built using [Azure Function Apps](https://learn.microsoft.com/en-us/azure/azure-functions/). The API leverages Azure's serverless architecture, allowing you to deploy and scale functions effortlessly in the cloud. The HTTP-triggered functions serve as the endpoints for the API, providing a seamless way to handle client requests.
